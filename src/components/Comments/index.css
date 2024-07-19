@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.comments-app {
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.app-title {
+  font-size: 24px;
+  color: #1e293b;
+}
+
+.comment-form {
+  margin-bottom: 20px;
+}
+
+.input-field,
+.textarea-field {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #dee0e3;
+  border-radius: 4px;
+}
+
+.add-button {
+  padding: 10px 20px;
+  background-color: #0284c7;
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.comments-count {
+  font-size: 18px;
+  color: #475569;
+}
+
+.comments-list {
+  list-style-type: none;
+  padding: 0;
+}
